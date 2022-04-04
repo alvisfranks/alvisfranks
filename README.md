@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvisfranks
-- 👀 I’m interested in python automation, flutter and Dart.
-- 🌱 I’m currently learning JS, Dart
+- 👀 I’m interested in Front-end, python automation, flutter and Dart.
+- 🌱 I’m currently learning HTML, CSS, JS, Dart
 - 💞️ I'm currently not looking for collabs.
 - 📫 No need to reach me.
 
